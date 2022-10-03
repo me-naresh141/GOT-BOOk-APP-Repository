@@ -1,0 +1,17 @@
+.text-center {
+  text-align: center;
+}
+.text-captilize {
+  text-transform: capitalize;
+}
+
+.flex {
+  display: flex;
+}
+.justify-between {
+  justify-content: space-between;
+}
+
+.display-none {
+  display: none;
+}
